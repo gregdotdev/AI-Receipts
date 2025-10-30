@@ -8,8 +8,8 @@ import os
 import base64
 
 # Bot and Gemini AI settings
-TELEGRAM_TOKEN = '7927390418:AAHxie5HOrtfw3Dlfdj3weegsbQoCydudT8'
-GEMINI_API_KEY = 'AIzaSyDI38Ta-tPVgRMiXcafqbTIrk1xwLzNi3k'
+TELEGRAM_TOKEN = ''
+GEMINI_API_KEY = ''
 EXCEL_FILE = 'resultados.xlsx'
 
 # Gemini API configuration
@@ -71,3 +71,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
